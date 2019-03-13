@@ -1,0 +1,9 @@
+
+<suite name="Login Test Suite" >
+    <test name="Test cases" >
+        <classes>
+            <class name="com.test.dmt.testCases.LoginTestCases" />
+            <class name="com.test.dmt.testCases.DmtTestCases" />
+        </classes>
+    </test>
+</suite>
